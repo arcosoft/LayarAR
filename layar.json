@@ -1,0 +1,43 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 4.092127, 
+          "lon": -76.184408
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/arcosoft/LayarAR/tree/master/corazon.png"
+      },
+      "id": 1, 
+      "text": {
+        "title": "Regalito de Dios",
+        "description": "Llegaste a mi vida en el instante que menos me lo esperaba, era justo el momento de mi vida que más te necesitaba. Gracias por ser tu quién me rompiera todos mis esquemas, gracias por entrar en mi vida sin llamar.",
+        "footnote": "Powered by Layar" 
+      }
+    },
+  {
+      "anchor": {
+        "geolocation": {
+          "lat": 4.0916466, 
+          "lon": -76.1922361
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/arcosoft/LayarAR/tree/master/alianza.png"
+      },
+      "id": 2, 
+      "text": {
+        "title": "Alianza de Amor",
+        "description": "Recibir tus besos, tus abrazos, tus tan bonitas frases de amor, tus mensajes de cariño… Me encanta saber que soy aquello tan importante en tu vida porque tú también lo eres para mí. Te Amo Mi Vida",
+        "footnote": "Powered by Layar" 
+      }
+    }
+    
+  ], 
+  "layer": "clauAngel"
+}
