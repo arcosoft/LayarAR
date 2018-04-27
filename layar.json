@@ -16,7 +16,8 @@
         "footnote": "Powered by Layar" 
       }
       "imageURL": {"https://raw.githubusercontent.com/arcosoft/LayarAR/master/alianza.png"}
-    }], 
+   } 
+   }], 
   "layer": "clauangelrfyl",
   "errorString": "ok", 
   "errorCode": 0 
