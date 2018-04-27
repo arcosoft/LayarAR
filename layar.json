@@ -12,7 +12,7 @@
 {
 "id": 2, 
 "icon": {
-  "type": 2  // this value corresponds to the POI icon set defined in the publishing environment
+  "type": 2
 },
 "anchor": { "referenceImage": "https://raw.githubusercontent.com/arcosoft/LayarAR/master/alianza.png" },
 "anchor": {"geolocation": {"lat":4.0916117, "lon":-76.1920440}}, 
